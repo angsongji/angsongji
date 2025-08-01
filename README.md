@@ -21,8 +21,6 @@
 - 💼 LinkedIn: [linkedin.com/in/levohoangoanh](https://www.linkedin.com/in/levohoangoanh/).
 - 🌐 GitHub: [github.com/angsongji](https://github.com/angsongji).
 
----
-
 <!---
 angsongji/angsongji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
