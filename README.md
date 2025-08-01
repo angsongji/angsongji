@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Oanh Le
-- 👀 I’m interested in code, read and draw
-- 🌱 I’m currently learning about making a website..
+- 👋 Hi, I’m Oanh Le from Vietnam.  
+- 👀 I’m interested in coding, reading, and drawing.  
+- 🌱 I’m currently learning web development and aiming to become a full-stack developer.  
+- 🙏 Thanks for reading! You can check out my portfolio [here](https://oanhleportfolio.netlify.app/).
   
 
 <!---
