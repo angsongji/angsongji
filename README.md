@@ -11,7 +11,7 @@
 
 👉 Visit my portfolio: [https://oanhleportfolio.netlify.app/](https://oanhleportfolio.netlify.app/)
 
-<img src="assets/PortfolioDesktop.png" alt="Portfolio banner" width="100%" />
+<img src="assets/PortfolioDesktop.png" alt="Portfolio banner" width="100%" height="100%"/>
 
 ---
 
